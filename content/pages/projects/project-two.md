@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/DagensLatter-min.png
-  altText: Project thumbnail image
+  altText: Image of the app "Dagens Latter"
 media:
   type: ImageBlock
   url: /images/bg2.jpg
