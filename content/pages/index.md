@@ -13,16 +13,7 @@ sections:
   - type: HeroSection
     title: I'm a developer and a digital content creator
     subtitle: ''
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/about.jpg
