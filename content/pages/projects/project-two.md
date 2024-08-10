@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Laughter of the Day
-colors: colors-a
+colors: colors-d
 date: '2021-12-20'
 client: Awesome client
 description: >-
